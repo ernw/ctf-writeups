@@ -4,11 +4,12 @@ mfw was a web challenge that included one flag for 125 points.
 
 When launching the mfw web site at web.chal.csaw.io:8000 was introduced by the phrases 
 
-```Welcome to my website!
+```
+Welcome to my website!
 I wrote it myself from scratch!
 ``` 
 
-and this is how it basically looked like: A navigation pane with three links to `Home`, `About` and `Contact`. While Home and  Contact did not show something interesting, the About page revealed some nice information as he wrote: 
+and this is how it basically looked like: A navigation pane with three links to `Home`, `About` and `Contact`. While Home and Contact did not show something interesting, the About page revealed some nice information as he wrote: 
 
 ```
 I wrote this website all by myself in under a week!
